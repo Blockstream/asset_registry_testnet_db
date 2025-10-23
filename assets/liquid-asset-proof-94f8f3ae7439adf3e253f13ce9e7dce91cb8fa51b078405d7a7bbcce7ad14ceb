@@ -1,0 +1,11 @@
+{
+  "asset_id": "94f8f3ae7439adf3e253f13ce9e7dce91cb8fa51b078405d7a7bbcce7ad14ceb",
+  "version": 0,
+  "name": "ABRY Token",
+  "ticker": "ABRY",
+  "domain": "token.abry.nl",
+  "precision": 8,
+  "entity": {
+    "domain": "token.abry.nl"
+  }
+}
